@@ -4,5 +4,10 @@
    "devices": [""],
    "expiry": "19-10-2024 12:00 PM"
 },
+   "test1234": {
+   "password": "$2y$12$clzkykbL4T0A.N5GuxRNKuqJHluPxqBzqJ1iGm/YBCsJuLbzO2/SW",
+   "devices": ["SM-A037F1194AF45D0B40DE7"],
+   "expiry": "17-10-2024 5:59 AM"
+},
 },
 }
