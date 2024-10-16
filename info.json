@@ -4,9 +4,4 @@
    "devices": [""],
    "expiry": "19-10-2024 12:00 PM"
 },
-   "test2345": {
-   "password": "$2y$12$6vqcFRVjGrScWenvk15o1u3vTudxUKqRv893W2b7mMCcBvyAw/utW",
-   "devices": ["REDMINOTE9PROEB0EDCED53459C98"],
-   "expiry": "17-11-2023 12:00 PM"
-},
 }
