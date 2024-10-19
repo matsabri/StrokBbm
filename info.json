@@ -14,5 +14,10 @@
    "devices": ["INFINIXX6850BA095EFEEC707AA2B"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "Abu12345": {
+   "password": "$2y$12$UXgxUbrBPVnNPn7enTEfg.OAvZ8COoeCcCDzVm2zz2.M7wG7RrDby",
+   "devices": ["PIXEL4XLE5373B3510CA0CF9"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 },
 }
