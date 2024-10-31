@@ -14,5 +14,10 @@
    "devices": ["PIXEL4XLE5373B3510CA0CF9"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "Mikael123": {
+   "password": "$2y$12$b7y91WcmAizb7XFkRAy9U.kSgAFZle33a2jYSf6W3Lbo9LG/KosOu",
+   "devices": ["21121210GB3244F3DBC89B34E"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 },
 }
