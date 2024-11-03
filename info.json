@@ -17,7 +17,12 @@
    "Mikael111": {
    "password": "$2y$12$Ov1xlE8ydregaUOUSJwr4.cKHh2jV/sz556Ntv7jLbOo0G0gEcHuS",
    "devices": ["21121210GB3244F3DBC89B34E"],
-   "expiry": "30-11-2024 12:00 PM"],  }
+   "expiry": "30-11-2024 12:00 PM"
+},
+   "Abu54321": {
+   "password": "$2y$12$7GQuB4C2UEJYiPSz2V6IbOUKOCFmz4d.xb.XlvAQiKUsEKxAx7y..",
+   "devices": ["2209116AG2CBAE58E14C84FF0"],
+   "expiry": "30-11-2024 12:00 PM"
 },
 },
 }
