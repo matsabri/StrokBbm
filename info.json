@@ -24,5 +24,10 @@
    "devices": ["2209116AG2CBAE58E14C84FF0"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "Taher123": {
+   "password": "$2y$12$iPDW3WKFjE/Vgae.pY/1mu5uO.Bfjt9.Pmv1/BPnHhLPMJ2LrdOE2",
+   "devices": ["V220716F025F6D8D62AFC"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 },
 }
