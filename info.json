@@ -34,4 +34,10 @@
    "devices": ["INFINIXX6853FBF32EFE53D642EA"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "tina1234": {
+   "password": "$2y$12$PFBCyVaMxpkBgvuQrpohhuBFGWUBF6jMC71ANskbf1D1YidimaGfG",
+   "devices": ["V231048763C21D6A018ED"],
+   "expiry": "30-11-2024 12:00 PM"
+},
+},
 }
