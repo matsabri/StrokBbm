@@ -29,5 +29,9 @@
    "devices": ["24069PC21GC50FC17214134A23"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "ahmad123": {
+   "password": "$2y$12$RePCdCetuNLH75C4iwomhOumo.pIG5xeIch/L.upP4HBO0eUbfo/K",
+   "devices": ["INFINIXX6853FBF32EFE53D642EA"],
+   "expiry": "30-11-2024 12:00 PM"
 },
 }
