@@ -34,5 +34,10 @@
    "devices": ["V231048763C21D6A018ED"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "abuamar354": {
+   "password": "$2y$12$3ihgoluyr9uF9fqafq4NS.4.CyT/inLlvHDOlEesnUr/l29tzM5pq",
+   "devices": ["24069PC21G8D14FEB9CF274918"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 },
 }
