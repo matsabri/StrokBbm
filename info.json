@@ -39,5 +39,9 @@
    "devices": ["REDMI5AD329C2CC7CF4"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "user1234": {
+   "password": "$2y$12$ecCJK/.SgZCNg7LwiAbCae5TQId6i9Hmjehai0NQCBIsxwIA7z25K",
+   "devices": ["INFINIXX6853FBF32EFE53D642EA"],
+   "expiry": "30-11-2024 12:00 PM"
 },
 }
