@@ -44,4 +44,9 @@
    "devices": ["INFINIXX6853FBF32EFE53D642EA"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "soni1234": {
+   "password": "$2y$12$PVZbkbrrPJU.dTFI1.e5teiWxG1K9SZNfJWOsl3uvDtsZvJIy5i1C",
+   "devices": [],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }
