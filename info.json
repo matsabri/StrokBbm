@@ -49,4 +49,9 @@
    "devices": [],
    "expiry": "31-12-2024 12:00 PM"
 },
+   "bansi123": {
+   "password": "$2y$12$WG9h9GClOv51MV96eTmxFOvwc05qLPwaVyjnbFN5vTxqD3jik4rpS",
+   "devices": [],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }
