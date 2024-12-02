@@ -2,7 +2,7 @@
 "test1234": {
    "password": "$2y$12$u8VxlANTCBOhcrjFftenourFRwSfJHjXIpW80aef00gBF4fztL3Na",
    "devices": [""],
-   "expiry": "19-10-2024 12:00 PM"
+   "expiry": "19-10-2023 12:00 PM"
 },
    "Ari11111": {
    "password": "$2y$12$46coZI.3SLyTnLqOR385c.mMA61VDUo9xAZOFfF0GEFUabXL4O/yy",
@@ -12,12 +12,12 @@
    "Mikael111": {
    "password": "$2y$12$Ov1xlE8ydregaUOUSJwr4.cKHh2jV/sz556Ntv7jLbOo0G0gEcHuS",
    "devices": ["21121210GB3244F3DBC89B34E"],
-   "expiry": "30-11-2024 12:00 PM"
+   "expiry": "30-11-2023 12:00 PM"
 },
    "Taher123": {
    "password": "$2y$12$iPDW3WKFjE/Vgae.pY/1mu5uO.Bfjt9.Pmv1/BPnHhLPMJ2LrdOE2",
    "devices": ["V220716F025F6D8D62AFC"],
-   "expiry": "30-11-2024 12:00 PM"
+   "expiry": "30-11-2023 12:00 PM"
 },
    "tina1234": {
    "password": "$2y$12$PFBCyVaMxpkBgvuQrpohhuBFGWUBF6jMC71ANskbf1D1YidimaGfG",
