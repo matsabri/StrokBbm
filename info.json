@@ -40,4 +40,9 @@
    "devices": ["CPH25658788CD45D71EC433"],
    "expiry": "31-12-2024 12:00 PM"
 },
+"mikael234": {
+   "password": "$2y$12$MITl9/A.bx0qUE7fvbkhOOYBqWFHcUk/x5R6u0xa8AOkXH0kkeWeq",
+   "devices": ["21121210GB3244F3DBC89B34E"],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }
