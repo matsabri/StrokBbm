@@ -54,4 +54,9 @@
    "devices": ["2201117PGE97017097FB85666"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "Yadi1234": {
+   "password": "$2y$12$uIjPGbqIYaOw1k232wBwfuP9xDHvSuAll0QN7JTT3ajvIWqIUiF7W",
+   "devices": ["RMX2180DEE3DD431DF3E00A"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
