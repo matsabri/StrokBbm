@@ -54,4 +54,9 @@
    "devices": ["CPH25658788CD45D71EC433"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "Rustam123": {
+   "password": "$2y$12$mX/moqr1nkRTdCMTzJ12VemI3OVCQtzwk63Y2LwnGKH1JLIcrLaMm",
+   "devices": ["CPH2689CEA68318E54152E3"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 }
