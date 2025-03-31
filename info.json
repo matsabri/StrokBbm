@@ -39,11 +39,6 @@
    "devices": ["21121210GB3244F3DBC89B34E"],
    "expiry": "31-03-2025 12:00 PM"
 },
-   "rustam111": {
-   "password": "$2y$12$AEnps7cP5ENiWNSZKGleiOt5aHtscJfLD96gWWybG0aVaJHI2e2Ai",
-   "devices": ["CPH21797E44964EDBCC3012"],
-   "expiry": "28-02-2025 12:00 PM"
-},
    "ade123": {
    "password": "$2y$12$xLzROCviFGa9MdtyiZHtA.lpHSLTo4muOKQxXeIr0AoJ.SYGIRwg.",
    "devices": ["2201117PGE97017097FB85666"],
