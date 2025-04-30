@@ -19,16 +19,6 @@
    "devices": ["V231048763C21D6A018ED"],
    "expiry": "30-04-2025 12:00 PM"
 },
-   "AbuAmar354": {
-   "password": "$2y$12$X6GrxrXP4umJojFlMAR9yeFYgC7DWOZm0h/NtT/SV6tY9ohyRR7Em",
-   "devices": ["24069PC21G88D0371CD79884F1"],
-   "expiry": "30-04-2025 12:00 PM"
-},
-   "Ahmad111": {
-   "password": "$2y$12$aTzI.WyU6iMqy0k17UM2y.ntlostuF01rEH1DADUcRJM6mXjDYe/.",
-   "devices": ["REDMI5AD329C2CC7CF4"],
-   "expiry": "31-01-2025 12:00 PM"
-},
    "user1234": {
    "password": "$2y$12$ecCJK/.SgZCNg7LwiAbCae5TQId6i9Hmjehai0NQCBIsxwIA7z25K",
    "devices": ["INFINIXX6853FBF32EFE53D642EA"],
