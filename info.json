@@ -19,11 +19,6 @@
    "devices": ["V231048763C21D6A018ED"],
    "expiry": "31-05-2025 12:00 PM"
 },
-   "user1234": {
-   "password": "$2y$12$ecCJK/.SgZCNg7LwiAbCae5TQId6i9Hmjehai0NQCBIsxwIA7z25K",
-   "devices": ["INFINIXX6853FBF32EFE53D642EA"],
-   "expiry": "31-01-2025 12:00 PM"
-},
    "Mikael333": {
    "password": "$2y$12$BLTEcqTRORNzW6.cuj3ZfuklxcBb/9UDQ9i9Ue5GkCiTOM5chJtNq",
    "devices": ["21121210GB3244F3DBC89B34E"],
