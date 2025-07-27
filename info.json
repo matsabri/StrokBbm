@@ -74,4 +74,9 @@
    "devices": ["SM-A356E96123B98E1B52875"],
    "expiry": "31-07-2025 12:00 PM"
 },
+"abdul123": {
+   "password": "$2y$12$6RzdOGph5f.ke/E5wh/EFOM2YgxcBLzK0cL8DQ8aBxSwS/WoXwa7m",
+   "devices": ["PIXEL6PRO15764126E1520B2E"],
+   "expiry": "29-07-2025 12:00 PM"
+},
 }
