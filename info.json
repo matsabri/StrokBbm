@@ -34,11 +34,6 @@
    "devices": ["RMX2180DEE3DD431DF3E00A"],
    "expiry": "31-07-2025 12:00 PM"
 },
-   "Rustam123": {
-   "password": "$2y$12$mX/moqr1nkRTdCMTzJ12VemI3OVCQtzwk63Y2LwnGKH1JLIcrLaMm",
-   "devices": ["CPH2689CEA68318E54152E3"],
-   "expiry": "31-07-2024 12:00 PM"
-},
    "bansi999": {
    "password": "$2y$12$lRdG1wnMSLrpN9u0T5aeHegcW4YCYx3biUMSKR1ewu1pFjY44be1.",
    "devices": ["CPH2631DDCAE7EFD16F2FF2"],
