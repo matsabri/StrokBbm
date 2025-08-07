@@ -69,4 +69,9 @@
    "devices": ["PIXEL6PRO15764126E1520B2E"],
    "expiry": "30-08-2025 12:00 PM"
 },
+"dion1234": {
+   "password": "$2y$12$6Gh3m/sX6fpVHYxZliGHJe9neYKt1vt749tsiPfUmWiYSD0Ejlota",
+   "devices": ["CPH223954C6AF3FBE27BDD9"],
+   "expiry": "31-08-2025 12:00 PM"
+},
 }
