@@ -74,4 +74,9 @@
    "devices": ["CPH223954C6AF3FBE27BDD9"],
    "expiry": "31-08-2025 12:00 PM"
 },
+"yulianto999": {
+   "password": "$2y$12$SnWzj/CWnHkRD.vCsH78/.ZzkISDKE/2hCYitwxOKTMu3hvguH2Ea",
+   "devices": ["CPH20152164C05917C623DD"],
+   "expiry": "09-08-2025 12:00 PM"
+},
 }
