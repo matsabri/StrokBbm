@@ -84,4 +84,9 @@
    "devices": ["CPH22697D48F4F36AB5DEB5"],
    "expiry": "31-08-2025 12:00 PM"
 },
+"soni0123": {
+   "password": "$2y$12$mTH706HWUa59MJsJfU95Iev3OhjjczEuZNE1/K55/wPkZsUunQpha",
+   "devices": ["SM-A236E96AAA018039E800A"],
+   "expiry": "30-09-2025 12:00 PM"
+},
 }
