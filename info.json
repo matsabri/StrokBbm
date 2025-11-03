@@ -89,4 +89,9 @@
    "devices": ["CPH2799A9C127FFF214244B"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"pocof123": {
+   "password": "$2y$12$Km0ySDNlImI1w6vzgW9iue6ThQLEVV.Xa/WErn19pGpVfVBdJSe7u",
+   "devices": ["CPH2799A9C127FFF214244B","23049PCD8G16F5A6CD835EA964"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
