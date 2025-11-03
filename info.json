@@ -44,11 +44,6 @@
    "devices": ["CPH25574527DCA548B151F1"],
    "expiry": "31-10-2025 12:00 PM"
 },
-   "busairi123": {
-   "password": "$2y$12$vc3hAM0npgMZQpZe7aBc/eK1Vv7xKVQJi0mq.95.9e.2Pi2Sybzw.",
-   "devices": ["CPH233316CAB980E8AF4557"],
-   "expiry": "31-12-2025 12:00 PM"
-},
    "abuamar12": {
    "password": "$2y$12$jVMOfFgMdl5NJoKz0KzT6.gMJpWgRs0j0fg5f1BaXH84AnOkn58xK",
    "devices": ["24069PC21G47C15E88D940AFBB"],
@@ -88,5 +83,10 @@
    "password": "$2y$12$mTH706HWUa59MJsJfU95Iev3OhjjczEuZNE1/K55/wPkZsUunQpha",
    "devices": ["SM-A236E96AAA018039E800A"],
    "expiry": "30-09-2025 12:00 PM"
+},
+"busairi00": {
+   "password": "$2y$12$wUfg0fojgFg7XOftwBXyuu.kYrffQWJr6Km358zdzX.iosnVoquD2",
+   "devices": ["CPH2799A9C127FFF214244B"],
+   "expiry": "30-11-2025 12:00 PM"
 },
 }
