@@ -94,4 +94,9 @@
    "devices": ["CPH2799A9C127FFF214244B","PIXEL9939D01CDD9C905AD","23049PCD8G16F5A6CD835EA964"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"busairi888": {
+   "password": "$2y$12$1cYkrNQ4ZalTtF0sK.MX0OLQ9C56gRviJGhabRZsDFKY7kMmZEada",
+   "devices": ["CPH2799BE9B42DDA2275BA3"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
