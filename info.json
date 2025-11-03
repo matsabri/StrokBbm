@@ -84,11 +84,6 @@
    "devices": ["SM-A236E96AAA018039E800A"],
    "expiry": "30-09-2025 12:00 PM"
 },
-"busairi1234": {
-   "password": "$2y$12$7Jz6aV.BBT8E3/d56tGoMOQtn2oimcV3eoDXzjcM/j.lhkW8L6Cj.",
-   "devices": ["CPH2799A9C127FFF214244B"],
-   "expiry": "30-11-2025 12:00 PM"
-},
 "pocof123": {
    "password": "$2y$12$Km0ySDNlImI1w6vzgW9iue6ThQLEVV.Xa/WErn19pGpVfVBdJSe7u",
    "devices": ["CPH2799A9C127FFF214244B","23049PCD8G16F5A6CD835EA964"],
