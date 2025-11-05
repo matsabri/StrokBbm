@@ -99,4 +99,9 @@
    "devices": ["CPH2799BE9B42DDA2275BA3"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"bansie123": {
+   "password": "$2y$12$IaFy1ajtsKgSCdB8XQ9LaOO2lVkQL8gwVjOZJrooHNGr.nLr/KwU6",
+   "devices": ["CPH2631DDCAE7EFD16F2FF2"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
