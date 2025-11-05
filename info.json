@@ -104,4 +104,9 @@
    "devices": ["CPH2631DDCAE7EFD16F2FF2"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"arinew123": {
+   "password": "$2y$12$rwASrCDDQiR5wMg7DXDZ0u.u53LqKjNvwP2pSE9T0uryAx8Ag6C7y",
+   "devices": ["INFINIXX6850BA095EFEEC707AA2B","CPH2631DDCAE7EFD16F2FF2"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
