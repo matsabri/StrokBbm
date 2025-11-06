@@ -109,4 +109,9 @@
    "devices": ["INFINIXX6853FBF32EFE53D642EA"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"abdul000": {
+   "password": "$2y$12$nhoTmA1.Muo8uUBlOho5kepX1tmYKL8JMiBIeTM31KjGieiGm/eCO",
+   "devices": ["PIXEL6PRO15764126E1520B2E"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
