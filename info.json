@@ -129,4 +129,9 @@
    "devices": ["SM-A236E96AAA018039E800A"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"rustam999": {
+   "password": "$2y$12$N.RUTENohHiaE5uQgO5szu7.zHYjct9zA2RPkmk84lxvXcjC9bfjO",
+   "devices": ["CPH2689CEA68318E54152E3"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
