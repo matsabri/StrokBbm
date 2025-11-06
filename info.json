@@ -124,4 +124,9 @@
    "devices": ["CPH25574527DCA548B151F1","V220716F025F6D8D62AFC"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"soni12345": {
+   "password": "$2y$12$oU4hVwHAuLscVIqOqpekVuYSgiZFAgBzOQtlPdUPXbKaGthuBuxAq",
+   "devices": ["SM-A236E96AAA018039E800A"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
