@@ -114,4 +114,9 @@
    "devices": ["PIXEL6PRO15764126E1520B2E"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"taher000": {
+   "password": "$2y$12$P5cP4eEEmA6jshopF1UYd.Dj8lCkuOK5H.P4EFLOIWo1CJgWgmC9q",
+   "devices": ["V220716F025F6D8D62AFC"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
