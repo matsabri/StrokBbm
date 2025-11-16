@@ -1,10 +1,5 @@
 {
 },
-   "Ari11111": {
-   "password": "$2y$12$46coZI.3SLyTnLqOR385c.mMA61VDUo9xAZOFfF0GEFUabXL4O/yy",
-   "devices": ["INFINIXX6850BA095EFEEC707AA2B"],
-   "expiry": "30-11-2025 12:00 PM"
-},
    "tina1234": {
    "password": "$2y$12$PFBCyVaMxpkBgvuQrpohhuBFGWUBF6jMC71ANskbf1D1YidimaGfG",
    "devices": ["V231048763C21D6A018ED"],
@@ -13,22 +8,12 @@
   "mikael12": {
    "password": "$2y$12$RdoSwoTnY/lonYFRmhErtOY35rSzrVZJx9VBMXLn6Ia64V0gqbJ3W",
    "devices": ["21121210GB3244F3DBC89B34E"],
-   "expiry": "16-11-2025 12:00 PM"
+   "expiry": "20-11-2025 12:00 PM"
 },
 "ade12345": {
    "password": "$2y$12$ZGP19ZjkXvNNJwfutxFqquzpbNB347UGOJUQhFd9qROkz0eRAZsy6",
    "devices": ["2201117PGE97017097FB85666"],
    "expiry": "30-11-2025 12:00 PM"
-},
-   "bansi999": {
-   "password": "$2y$12$lRdG1wnMSLrpN9u0T5aeHegcW4YCYx3biUMSKR1ewu1pFjY44be1.",
-   "devices": ["CPH2631DDCAE7EFD16F2FF2"],
-   "expiry": "31-10-2025 12:00 PM"
-},
-   "rizky999": {
-   "password": "$2y$12$b5I7/IqTkl3TDIlKmsXjFuRZcj4qCl6gU8FnBBNID3HtnFt48FIZC",
-   "devices": ["CPH25574527DCA548B151F1"],
-   "expiry": "31-10-2025 12:00 PM"
 },
 "marlina123": {
    "password": "$2y$12$JFWrywySCwATXJozMo8UCOlwBAA/Du9iklANHm6xC9p6H8bjlx7w.",
