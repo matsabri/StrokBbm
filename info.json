@@ -95,3 +95,8 @@
    "devices": ["23049PCD8G16F5A6CD835EA964"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"samsung1": {
+   "password": "$2y$12$6v/qdxTGGMpOGliFCRH6judZ8aX.DKFztjZPeFSuCC3ZzjPO3d21u",
+   "devices": ["SM-A065FC296207CFC49867E"],
+   "expiry": "30-11-2025 12:00 PM"
+},
