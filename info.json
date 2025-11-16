@@ -59,16 +59,6 @@
    "devices": ["CPH22697D48F4F36AB5DEB5"],
    "expiry": "30-09-2025 12:00 PM"
 },
-"pocof123": {
-   "password": "$2y$12$Km0ySDNlImI1w6vzgW9iue6ThQLEVV.Xa/WErn19pGpVfVBdJSe7u",
-   "devices": ["CPH2799A9C127FFF214244B","23049PCD8G16F5A6CD835EA964"],
-   "expiry": "30-11-2025 12:00 PM"
-},
-"pixel12345": {
-   "password": "$2y$12$ovjT9el4canpo3BfRJxqq.hsEN7kDpt7qaU2fCVWWuOSAzPX68BmO",
-   "devices": ["CPH2799A9C127FFF214244B","PIXEL9939D01CDD9C905AD","23049PCD8G16F5A6CD835EA964"],
-   "expiry": "30-11-2025 12:00 PM"
-},
 "busairi888": {
    "password": "$2y$12$1cYkrNQ4ZalTtF0sK.MX0OLQ9C56gRviJGhabRZsDFKY7kMmZEada",
    "devices": ["CPH2799BE9B42DDA2275BA3"],
