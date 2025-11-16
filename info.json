@@ -1,8 +1,4 @@
 {
-   "samsungs9": {
-   "password": "$2y$12$O.5T/wtgSQMHN4IhXRomnORk0KLaBsHP1pMGWXUUizixCbMl.DEYi",
-   "devices": ["SM-G965F4CAB5CCABDE96A5B"],
-   "expiry": "28-07-2020 12:00 PM"
 },
    "Ari11111": {
    "password": "$2y$12$46coZI.3SLyTnLqOR385c.mMA61VDUo9xAZOFfF0GEFUabXL4O/yy",
@@ -108,5 +104,10 @@
    "password": "$2y$12$.lGnS3a5I/F17fHnHugVl.Xue6sFJ5153EYTElfPqruxyBoigJFka",
    "devices": ["24069PC21G47C15E88D940AFBB"],
    "expiry": "31-12-2025 12:00 PM"
+},
+"pocof512": {
+   "password": "$2y$12$WP6j21gaqbLhfy66NLRToO7obRYeWQKb.IWPiIUULSoT/9Vsp3jku",
+   "devices": ["23049PCD8G16F5A6CD835EA964"],
+   "expiry": "30-11-2025 12:00 PM"
 },
 }
