@@ -105,4 +105,9 @@
    "devices": ["24069PC21G47C15E88D940AFBB"],
    "expiry": "30-11-2025 12:00 PM"
 },
+"pocof256": {
+   "password": "$2y$12$gtMFeFOErXI9N40hGqw3FOwhibIM6aP9Njph2CtVcMezU.ch4r5R2",
+   "devices": ["24069PC21G47C15E88D940AFBB","23049PCD8G16F5A6CD835EA964"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 
