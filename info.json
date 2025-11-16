@@ -119,9 +119,4 @@
    "devices": ["RMX2180DEE3DD431DF3E00A"],
    "expiry": "12-11-2025 12:00 PM"
 },
-"abuamar13": {
-   "password": "$2y$12$gX.FEkSxkkG/T4Ply0Eft.zsQ6UyzLAxioTPE6KRdsFJTGx7DVMMy",
-   "devices": ["24069PC21G47C15E88D940AFBB"],
-   "expiry": "31-12-2025 12:00 PM"
-},
 }
